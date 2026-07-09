@@ -117,3 +117,6 @@ This project helped strengthen practical skills in:
 ## 📌 Conclusion
 
 This project demonstrates a complete data visualization workflow using Python. By combining data preprocessing, feature engineering, and compelling visualizations, it effectively communicates the factors that influenced passenger survival on the Titanic, making it a strong portfolio project for aspiring Data Analysts and Data Scientists.
+
+Author: Raghav Garg 
+Internship Task: Data Analysis with Python – Task 4
